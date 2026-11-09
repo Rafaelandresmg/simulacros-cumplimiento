@@ -11,7 +11,7 @@ cada error.
 ## Sectores
 
 - **Seguros** — 20 exámenes: 5 integrales y 3 por cada tema. Banco de 774 preguntas.
-- Turismo, cajas de ahorro, inmobiliario y nuevas tecnologías: en preparación.
+- **Turismo, cajas de ahorro, inmobiliario y nuevas tecnologías y criptoactivos** — 20 exámenes por sector.
 
 ## Temario
 
