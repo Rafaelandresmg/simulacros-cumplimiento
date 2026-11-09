@@ -12,6 +12,7 @@ cada error.
 
 - **Seguros** — 20 exámenes: 5 integrales y 3 por cada tema. Banco de 774 preguntas.
 - **Turismo, cajas de ahorro, inmobiliario y nuevas tecnologías y criptoactivos** — 20 exámenes por sector.
+- **Investigación penal (LOCDOFT)** — 8 exámenes de nivel avanzado: 4 integrales y 4 por tema. Banco de 203 preguntas.
 
 ## Temario
 
