@@ -10,9 +10,23 @@ cada error.
 
 ## Sectores
 
-- **Seguros** — 20 exámenes: 5 integrales y 3 por cada tema. Banco de 774 preguntas.
-- **Turismo, cajas de ahorro, inmobiliario y nuevas tecnologías y criptoactivos** — 20 exámenes por sector.
-- **Investigación penal** — 20 exámenes con la misma estructura; su normativa prudencial es la LOCDOFT. Banco de 781 preguntas.
+Cada sector tiene 25 exámenes: 5 con formato de la prueba de la ONCDOFT,
+5 integrales y 3 por cada tema.
+
+- **Seguros, turismo, cajas de ahorro, inmobiliario y nuevas tecnologías y criptoactivos**.
+- **Investigación penal** — LOCDOFT, delitos, investigación y cooperación.
+- **Abogados y contadores en libre ejercicio** — LOCDOFT, registro RUSO, señales
+  de alerta, evaluación sectorial de riesgos y estándares del GAFI sobre APNFD.
+
+### Fuentes del sector de abogados y contadores
+
+- LOCDOFT, Gaceta Oficial N.º 39.912 del 30 de abril de 2012, art. 9, numeral 9.
+- [Circular ONCDOFT-DGCJ 003-2026 sobre el RUSO](https://www.grantthornton.com.ve/globalassets/1.-member-firms/venezuela/2026/003-circular0001.pdf)
+  (copia del instrumento difundida por un tercero).
+- [Circular UNIF-DG-DSU-04409](https://www.unif.gob.ve/wp-content/uploads/Circulares_UNIF/CC_UNIF_04409%282023-11-10%29.pdf).
+- [Evaluación Sectorial ACAI 2026 de la ONCDOFT](https://www.oncdoft.gob.ve/wp-content/uploads/2026/05/SECTORIAL-ABOG-CONT-AINMB-2026-ESP.pdf).
+- [Recomendaciones del GAFI](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html),
+  en especial las Recomendaciones 22, 23 y 28 y sus notas interpretativas.
 
 ## Temario
 
