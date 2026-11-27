@@ -4,16 +4,21 @@ Exámenes de práctica en materia de prevención de legitimación de capitales,
 financiamiento al terrorismo y financiamiento de la proliferación de armas de
 destrucción masiva, con la normativa venezolana e internacional.
 
-Cada examen tiene 50 preguntas de verdadero o falso y de selección simple, se
-aprueba con el 80 % (40 aciertos) y al terminar muestra la nota y la explicación de
-cada error.
+Cada examen tiene 50 preguntas, se aprueba con el 80 % (40 aciertos) y al
+terminar muestra la nota y la explicación de cada error. Los modelos temáticos
+adicionales tienen 25 preguntas de verdadero o falso y 25 de selección simple.
+En selección simple, se marca una sola respuesta correcta.
 
 ## Sectores
 
-Cada sector tiene 25 exámenes: 5 con formato de la prueba de la ONCDOFT,
+Cada sector parte de 25 exámenes: 5 con formato de la prueba de la ONCDOFT,
 5 integrales y 3 por cada tema.
 
-- **Seguros, turismo, cajas de ahorro, inmobiliario y nuevas tecnologías y criptoactivos**.
+- **Seguros, turismo y nuevas tecnologías y criptoactivos**.
+- **Cajas de ahorro** — 31 exámenes. Incluye tres modelos sobre la Ley de Cajas
+  de Ahorro y tres sobre las guías de SUDECA de LC/FT/FPADM.
+- **Inmobiliario** — 34 exámenes. Incluye tres modelos por cada tema adicional:
+  Código de Ética CIV de 2025, RUSO y guías inmobiliarias de LC/FT/FPADM.
 - **Investigación penal** — LOCDOFT, delitos, investigación y cooperación.
 - **Abogados y contadores en libre ejercicio** — LOCDOFT, registro RUSO, señales
   de alerta, evaluación sectorial de riesgos y estándares del GAFI sobre APNFD.
